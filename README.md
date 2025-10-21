@@ -1,4 +1,4 @@
-# Kuvailevan analytiikan perusmentelmät
+# Kuvailevan analytiikan perusmenetelmät
 
 Voit ladata esimerkit omalle koneelle: Napsauta Code (vihreä pudotusvalikko-painike) ja valitse Download ZIP. Pura ZIP-paketti itsellesi sopivaan hakemistoon.
 
